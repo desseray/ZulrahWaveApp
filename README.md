@@ -3,12 +3,12 @@
 Zulrah Rotation/Wave Assistant
 
 Hotkeys :
-        1: Change rotation 1's frame
-        2: Change rotation 2's frame
-        3: Change rotation 3's frame
-        4: Change rotation 4's frame
-        0: Reset all rotations frames
-        Esc: Bring up menu bar (to close program)
+1: Change rotation 1's frame
+2: Change rotation 2's frame
+3: Change rotation 3's frame
+4: Change rotation 4's frame
+0: Reset all rotations frames
+Esc: Bring up menu bar (to close program)
         
 Things to note: 
 The program is made to overlay everything else so you can interact with your client and still have the app in the front.
